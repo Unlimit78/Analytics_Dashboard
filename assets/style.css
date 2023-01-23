@@ -1,0 +1,96 @@
+
+#dropdown1 .Select-control {
+    background-color: 	#373737 !important;
+    color:white;
+    border-style:none;
+  }
+  #dropdown1 .Select-control:hover {
+    border:1px solid red;
+  }
+
+#dropdown1 .Select-menu-outer {
+    background-color: #373737;
+    color: white;
+    border-style:none;
+
+}
+
+
+#dropdown1 .Select-value-label {
+    color: white !important;
+    border-style:none;
+    background-color: #373737;
+}
+
+
+#dropdown2 .Select-control {
+    background-color: 	#373737 !important;
+    color:white;
+    border-style:none;
+  }
+  #dropdown2 .Select-control:hover {
+    border:1px solid red;
+  }
+
+#dropdown2 .Select-menu-outer {
+    background-color: #373737;
+    color: white;
+    border-style:none;
+
+}
+
+
+#dropdown2 .Select-value-label {
+    color: white !important;
+    border-style:none;
+    background-color: #373737;
+}
+
+#dropdown3 .Select-control {
+    background-color: 	#373737 !important;
+    color:white;
+    border-style:none;
+  }
+  #dropdown3 .Select-control:hover {
+    border:1px solid red;
+  }
+
+#dropdown3 .Select-menu-outer {
+    background-color: #373737;
+    color: white;
+    border-style:none;
+
+}
+
+
+#dropdown3 .Select-value-label {
+    color: white !important;
+    border-style:none;
+    background-color: #373737;
+}
+
+.slider{
+    margin:30px;
+}
+
+.rc-slider-track {
+  background-color: red;
+}
+
+.rc-slider-dot-active {
+  border-color: red;
+  border: solid 2px red;
+}
+
+.rc-slider-handle {
+  background-color: red;
+  border-color: red;
+}
+
+.rc-slider-handle:hover {
+  border-color: red;
+}
+
+.rc-slider-handle-active:active {
+  border-color: red;
+}
